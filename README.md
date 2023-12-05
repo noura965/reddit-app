@@ -75,5 +75,5 @@ sample portfolio project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reddit-app
+   git clone https://github.com/noura965/reddit-app
 
