@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# reddit-app
+sample portfolio project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Name
 
-## Available Scripts
+[Project Description]
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Wireframes](#wireframes)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Future Work](#future-work)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Wireframes
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Wireframe 1](/path/to/wireframe1.png)
+*Caption for Wireframe 1*
 
-### `npm test`
+![Wireframe 2](/path/to/wireframe2.png)
+*Caption for Wireframe 2*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+...
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend:**
+  - [React](https://reactjs.org/)
+  - [React Router](https://reactrouter.com/)
+  - [Redux](https://redux.js.org/)
+  - [Bootstrap](https://getbootstrap.com/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Backend:**
+  - [Node.js](https://nodejs.org/)
+  - [Express](https://expressjs.com/)
+  - [MongoDB](https://www.mongodb.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Other Tools:**
+  - [Webpack](https://webpack.js.org/)
+  - [Babel](https://babeljs.io/)
+  - [ESLint](https://eslint.org/)
+  - [Git](https://git-scm.com/)
 
-### `npm run eject`
+## Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Feature 1:**
+  [Description of Feature 1]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Feature 2:**
+  [Description of Feature 2]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **...
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Future Work
 
-## Learn More
+- **Feature Enhancement 1:**
+  [Description of planned enhancement for Feature 1]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Feature Enhancement 2:**
+  [Description of planned enhancement for Feature 2]
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **New Feature:**
+  [Description of a new feature to be implemented]
 
-### Code Splitting
+- **...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Getting Started
 
-### Analyzing the Bundle Size
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Node.js](https://nodejs.org/) installed
+- [MongoDB](https://www.mongodb.com/) installed (if applicable)
 
-### Making a Progressive Web App
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/noura965/reddit-app
