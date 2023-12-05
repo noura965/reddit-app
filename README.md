@@ -1,4 +1,3 @@
-
 # reddit-app
 
 *The React Reddit App is a modern and intuitive application that leverages the power of React to provide users with a seamless and feature-rich Reddit browsing experience. This application allows users to explore Reddit content, interact with posts, and enjoy a responsive and visually appealing user interface.*
@@ -11,7 +10,7 @@
 - [Prerequisites](#prerequisites)
 - [installation](#installation)
 
-#included
+-**included:**
   
 - Write unit tests for your components using Jest and Enzyme
 - Write end-to-end tests for your application
