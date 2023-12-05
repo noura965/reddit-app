@@ -1,11 +1,7 @@
+
 # reddit-app
-sample portfolio project
 
-# Project Name
-
-[Project Description]
-
-The React Reddit App is a modern and intuitive application that leverages the power of React to provide users with a seamless and feature-rich Reddit browsing experience. This application allows users to explore Reddit content, interact with posts, and enjoy a responsive and visually appealing user interface.
+*The React Reddit App is a modern and intuitive application that leverages the power of React to provide users with a seamless and feature-rich Reddit browsing experience. This application allows users to explore Reddit content, interact with posts, and enjoy a responsive and visually appealing user interface.*
 
 - [Wireframes](#wireframes)
 - [Technologies Used](#technologies-used)
@@ -15,6 +11,7 @@ The React Reddit App is a modern and intuitive application that leverages the po
 - [Prerequisites](#prerequisites)
 - [installation](#installation)
 
+#included
   
 - Write unit tests for your components using Jest and Enzyme
 - Write end-to-end tests for your application
